@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "66587cbe2eebada3b79e496c"
+  },
+  "title": "G.U.N.N.E.R",
+  "description": "Продержись как можно дольше, отбиваясь от врагов, которых будет становиться всё больше",
+  "develop": "IDKWIAm",
+  "image": "https://code.s3.yandex.net/teens/pindie-games/gunner/cover.png",
+  "link": "https://code.s3.yandex.net/teens/pindie-games/gunner/game/index.html"
+}]
