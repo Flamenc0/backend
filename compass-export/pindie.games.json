@@ -34,11 +34,7 @@
   "developer": "IDKWIAm",
   "image": "https://code.s3.yandex.net/teens/pindie-games/gunner/cover.png",
   "link": "https://code.s3.yandex.net/teens/pindie-games/gunner/game/index.html",
-  "users": [
-    {
-      "$oid": "6606b19ef99cd7a67132aaf6"
-    }
-  ],
+  "users": [],
   "categories": [
     {
       "$oid": "65fd4ae18dfd769ce313327d"
@@ -64,11 +60,7 @@
   "developer": "MastWe",
   "image": "https://code.s3.yandex.net/teens/pindie-games/defence-of-crystal/cover.png",
   "link": "https://code.s3.yandex.net/teens/pindie-games/defence-of-crystal/game/index.html",
-  "users": [
-    {
-      "$oid": "6606b19ef99cd7a67132aaf6"
-    }
-  ],
+  "users": [],
   "categories": [
     {
       "$oid": "65fd4ae18dfd769ce313327d"
@@ -142,6 +134,52 @@
     },
     {
       "$oid": "65fd4ae88dfd769ce3133282"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d1de8da026729e2699ecb"
+  },
+  "title": "Dangeons'n'Caves. Prologue",
+  "description": "Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.",
+  "developer": "F-Style",
+  "image": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png",
+  "link": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html",
+  "users": [],
+  "categories": [
+    {
+      "$oid": "65fd4ae88dfd769ce3133282"
+    },
+    {
+      "$oid": "65fd4ef6ee6f92e3d791d0d7"
+    },
+    {
+      "$oid": "660bc0a61755c9b3a8173553"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660d1e3ada026729e2699ed6"
+  },
+  "title": "Square Slayer",
+  "description": "Уворачивайся и отстреливайся от озлобленных квадратов и собирай жизни для перехода на следующий уровень.",
+  "developer": "niclan",
+  "image": "https://code.s3.yandex.net/teens/pindie-games/square-slayer/cover.png",
+  "link": "https://code.s3.yandex.net/teens/pindie-games/square-slayer/game/index.html",
+  "users": [],
+  "categories": [
+    {
+      "$oid": "65fd4ae18dfd769ce313327d"
+    },
+    {
+      "$oid": "65fd4ae88dfd769ce3133282"
+    },
+    {
+      "$oid": "660bc0a61755c9b3a8173553"
     }
   ],
   "__v": 0
